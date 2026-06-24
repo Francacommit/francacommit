@@ -36,10 +36,10 @@ Eu sou um desenvolvedor entusiasta apaixonado por tecnologia e inovação. Aqui 
 
 ## 📫 Entre em contato comigo:
 
-- **LinkedIn:** [Meu perfil](#)
-- **WhatsApp:** [Fale comigo](#)
-- **Instagram:** [Siga-me](#)
-- [Enviar um e-mail para Gabriel](#)
+- **LinkedIn:** [Meu perfil](https://www.linkedin.com/in/gabriel-fran%C3%A7a-8307bb293/)
+- **WhatsApp:** [Fale comigo](https://wa.me/5584992029771)
+- **Instagram:** [Siga-me](https://www.instagram.com/franca_commit/)
+- [Enviar um e-mail para Gabriel](mailto:gabrielfranca.desenvolvedor@gmail.com)
 
 ---
 
