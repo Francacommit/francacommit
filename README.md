@@ -26,8 +26,8 @@ Eu sou um desenvolvedor entusiasta apaixonado por tecnologia e inovação. Aqui 
 <div align="center">
   <table>
     <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=Gabrielfranca-dev&show_icons=true&theme=radical" alt="GitHub Stats" width="400" /></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielfranca-dev&layout=compact&theme=radical" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=francacommit&show_icons=true&theme=radical" alt="GitHub Stats" width="400" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=francacommit&layout=compact&theme=radical" /></td>
     </tr>
   </table>
 </div>
