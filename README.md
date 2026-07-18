@@ -23,10 +23,10 @@ Eu sou um desenvolvedor entusiasta apaixonado por tecnologia e inovação. Aqui 
 
 ## 📊 Minhas Estatísticas & 🏆 Linguagens mais usadas:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=francacommit&show_icons=true&theme=radical" width="400" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=francacommit&show_icons=true&theme=radical&include_all_commits=true&count_private=true" width="400" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=francacommit&layout=compact&theme=radical" width="400" />
-</p>
+</div>
 
 ---
 
